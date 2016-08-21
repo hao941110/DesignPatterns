@@ -1,4 +1,4 @@
-package com.hustzh.patterns.abstractfactory;
+package com.hustzh.patterns.AbstractFactory;
 
 public abstract class AbstractFactory {
 	public abstract Shape getShape(String color);

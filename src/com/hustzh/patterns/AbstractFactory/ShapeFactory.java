@@ -1,4 +1,4 @@
-package com.hustzh.patterns.abstractfactory;
+package com.hustzh.patterns.AbstractFactory;
 
 public class ShapeFactory extends AbstractFactory {
 

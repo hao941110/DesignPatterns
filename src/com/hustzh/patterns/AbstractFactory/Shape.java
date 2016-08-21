@@ -1,4 +1,4 @@
-package com.hustzh.patterns.factory;
+package com.hustzh.patterns.AbstractFactory;
 
 public interface Shape {
 	void draw();

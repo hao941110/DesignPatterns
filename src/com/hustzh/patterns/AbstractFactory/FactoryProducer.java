@@ -1,4 +1,4 @@
-package com.hustzh.patterns.abstractfactory;
+package com.hustzh.patterns.AbstractFactory;
 
 public class FactoryProducer {
 	 public static AbstractFactory getFactory(String choice){

@@ -1,4 +1,4 @@
-package com.hustzh.patterns.abstractfactory;
+package com.hustzh.patterns.SimpleFactory;
 
 public class Rectangle implements Shape {
 
